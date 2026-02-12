@@ -2,6 +2,7 @@
 
 ## Repo structure
 
+- **`README.md`**: overview of the project, structure, and replication instructions
 - **`scripts/`**: all code to prepare data and reproduce figures
   - **`00_setup.R`**: shared package imports + small helper functions (directory creation, saving PDFs)
   - **`01_data_prep.R`**: data prep functions used by the plotting script (filtering/reshaping/summaries)
